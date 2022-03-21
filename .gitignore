@@ -3,3 +3,4 @@ db1/
 env/
 python.org.html
 config.py
+*.db
